@@ -9,7 +9,7 @@ Olá, meu nome é Guilherme, tenho 21 anos e sou estudante de Economia na UFABC.
 
 ## 🔗 Connect with me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@medeirosguiufabc)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-medeiros-4376171bb)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-medeiros-4376171bb)
 
 ## ⚡ Hard Skills 
 
